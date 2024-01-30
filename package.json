@@ -15,11 +15,6 @@
   "keywords": [
     "suwatte"
   ],
-  "author": {
-    "name": "Mantton",
-    "email": "mantton.official@gmail.com",
-    "url": "https://mantton.com"
-  },
   "license": "MIT",
   "devDependencies": {
     "@types/crypto-js": "^4.1.1",
